@@ -5,10 +5,7 @@ body {
   margin-top: 10px;
   background: #FFF image-url('body-back.png') top left repeat-x;
 }
-body {
-  margin-top: 100px;
-  background: transparent image-url('body-back.png') top center repeat-x;
-}
+
 
 
 div.left { @include leftie; }
