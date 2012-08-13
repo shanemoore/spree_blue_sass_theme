@@ -12,7 +12,7 @@ a { outline: none; }
 
 #wrapper {
   background: transparent image-url('wrapper-back.png') top center no-repeat;
-  padding: 25px 20px 20px;
+  padding: 35px 20px 20px;
   position: relative;
   min-height: 420px;
   }
